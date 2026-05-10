@@ -40,7 +40,7 @@ I think Season 4 is the best season because the story became darker and more int
 
 ---
 
-## Simple Rating Table
+## Ratings
 
 | Category | Rating |
 |----------|---------|
